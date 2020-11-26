@@ -1,10 +1,13 @@
 ## 핑계 아닌 핑계를 대보겠습니다.
 약 3주간 Commit 기록이 없습니다...
+
 SSAFY에서 Project를 여러개 진행하면서 SSAFY만의 GitLab을 사용하다보니
+
 Repo관리가 소홀했습니다.
+
 다시 한번 정진하겠습니다!!!
 
-### 😄 Pronouns: SSAFYing
+### 😄 SSAFYing
 ![BonHyuck's github stats](https://github-readme-stats.vercel.app/api?username=BonHyuck&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonHyuck)](https://github.com/anuraghazra/github-readme-stats)
